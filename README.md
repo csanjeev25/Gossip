@@ -1,5 +1,8 @@
-# chats
-Android chats
-Cut+Paste chats_php in ur XAMP htdocs folder for XAMP and for WAMP c+p in ur www folder
-Change ip address in communicatio=>SocketOperator.java to ur personal ip address
-and then ENJOY chatting
+Gossip.
+
+It is an Android Chat Application implemented in Java.
+It uses PHP for server side commication.
+XAMPP to used ffor local database.
+It provides proper authentication.
+It also compatible to send images and videos.
+[Currently Working]
